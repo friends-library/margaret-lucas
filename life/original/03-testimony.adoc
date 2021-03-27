@@ -1,4 +1,4 @@
-[#testimony.style-blurb, short="Testimony of Staffordshire Quarterly Meeting"]
+[.style-blurb, short="Testimony of Staffordshire Quarterly Meeting"]
 == The Testimony of the Friends of the Quarterly meeting of Staffordshire held by adjournment at Leek, the 3rd of the Fifth month, 1770.
 
 Margaret Lucas, of Leek, was educated in the national worship;
